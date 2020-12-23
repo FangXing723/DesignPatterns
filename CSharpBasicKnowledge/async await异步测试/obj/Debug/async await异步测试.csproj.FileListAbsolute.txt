@@ -1,0 +1,7 @@
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\bin\Debug\async await异步测试.exe.config
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\bin\Debug\async await异步测试.exe
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\bin\Debug\async await异步测试.pdb
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\obj\Debug\async await异步测试.csprojAssemblyReference.cache
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\obj\Debug\async await异步测试.csproj.CoreCompileInputs.cache
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\obj\Debug\async await异步测试.exe
+I:\GitHub\CSharpBasicKnowledge\async await异步测试\obj\Debug\async await异步测试.pdb

@@ -1,0 +1,7 @@
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GenericDelegate\obj\Debug\GenericDelegate.pdb

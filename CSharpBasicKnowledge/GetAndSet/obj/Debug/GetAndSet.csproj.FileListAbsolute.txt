@@ -1,0 +1,7 @@
+C:\Users\37072\Desktop\CSharpBasicKnowledge\bin\Debug\GetAndSet.exe.config
+C:\Users\37072\Desktop\CSharpBasicKnowledge\bin\Debug\GetAndSet.exe
+C:\Users\37072\Desktop\CSharpBasicKnowledge\bin\Debug\GetAndSet.pdb
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GetAndSet\obj\Debug\GetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GetAndSet\obj\Debug\GetAndSet.exe
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GetAndSet\obj\Debug\GetAndSet.pdb
+C:\Users\37072\Desktop\CSharpBasicKnowledge\GetAndSet\obj\Debug\GetAndSet.csprojAssemblyReference.cache
