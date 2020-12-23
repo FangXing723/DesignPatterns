@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPatterns._2CLMS.CashContext" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAA=</HashCode>
+      <FileName>CashContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.CashNormal" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.CashRebate" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashRebate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.CashReturn" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAACAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.CashSuper" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashSuper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.CashTypeEnum" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashTypeEnum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns._2CLMS.Program" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
